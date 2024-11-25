@@ -3,7 +3,7 @@
 Um jogo da velha simples desenvolvido em PHP com interface web.
 
 <p align="center">
-  <img alt="Preview" width="860" alt="preview" src="preview.png">
+  <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/gqTaV3Z.png">
 <p align="center">
 
 ## Funcionalidades ⚡
