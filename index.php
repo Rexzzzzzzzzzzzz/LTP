@@ -52,6 +52,7 @@ if (!in_array('', $_SESSION['board']) && $_SESSION['winner'] === null) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jogo da Velha</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%23d4acf0'/%3E%3Cpath d='M35 35 L65 65 M65 35 L35 65' stroke='%23fff' stroke-width='8' stroke-linecap='round'/%3E%3C/svg%3E">
 </head>
 <body>
     <div class="container">
