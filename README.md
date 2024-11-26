@@ -25,4 +25,4 @@ Um jogo da velha simples desenvolvido em PHP com interface web.
 
 [Explicação em PDF]
 
-[https://docs.google.com/document/d/1qh7wTLk6HUpVRrRf7POGdp4X5nAnhHW6AKaKIPm7ryo/edit?usp=sharing](https://docs.google.com/document/d/1XlINuzXgvky6BCsvGtfpIRPstv-pBIj09xsWyJjmjYc/edit?usp=drivesdk 
+https://docs.google.com/document/d/1qh7wTLk6HUpVRrRf7POGdp4X5nAnhHW6AKaKIPm7ryo/edit?usp=sharing](https://docs.google.com/document/d/1XlINuzXgvky6BCsvGtfpIRPstv-pBIj09xsWyJjmjYc/edit?usp=drivesdk 
